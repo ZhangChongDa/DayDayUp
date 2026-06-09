@@ -1,7 +1,7 @@
 # Eazzy Omini Call Center — Nuxt 4 开发技术规范
 
 > **文档用途**：供后续 AI 与开发者在实现功能时**必须遵守**的 Nuxt 4 架构约定。  
-> **适用范围**：本仓库 `Eazzy-Omini-CC`（Nuxt 4 + Tailwind CSS v4 + shadcn-vue）。  
+> **适用范围**：本仓库 `DAYDAYUP`（Nuxt 4 + Tailwind CSS v4 + shadcn-vue）。  
 > **官方参考**：[Views](https://nuxt.com/docs/4.x/getting-started/views) · [Assets](https://nuxt.com/docs/4.x/getting-started/assets) · [Styling](https://nuxt.com/docs/4.x/getting-started/styling) · [Routing](https://nuxt.com/docs/4.x/getting-started/routing) · [Transitions](https://nuxt.com/docs/4.x/getting-started/transitions) · [Data Fetching](https://nuxt.com/docs/4.x/getting-started/data-fetching) · [State Management](https://nuxt.com/docs/4.x/getting-started/state-management) · [Server](https://nuxt.com/docs/4.x/getting-started/server)
 
 **与 UI/产品规则的关系**：业务交互、视觉风格见同目录 `AICodingRule.md`；本文档仅约束 **Nuxt 4 工程结构与代码模式**。
